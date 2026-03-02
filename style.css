@@ -1,0 +1,111 @@
+/* ============================= */
+
+
+/*        GLOBAL STYLE           */
+
+
+/* ============================= */
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #ffffff;
+}
+
+
+/* Titres */
+
+h1,
+h2,
+h3 {
+    color: #1f2d3d;
+    font-weight: 600;
+}
+
+
+/* Paragraphes */
+
+p {
+    color: #555;
+    font-size: 16px;
+}
+
+
+/* ============================= */
+
+
+/*           BUTTONS             */
+
+
+/* ============================= */
+
+.stButton>button {
+    background-color: #0A3D62;
+    color: white;
+    border-radius: 6px;
+    padding: 8px 18px;
+    border: none;
+    font-weight: 500;
+}
+
+.stButton>button:hover {
+    background-color: #145DA0;
+}
+
+
+/* ============================= */
+
+
+/*        SERVICE CARDS          */
+
+
+/* ============================= */
+
+.service-card {
+    background: #f9fafc;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #e6e9ef;
+    text-align: center;
+}
+
+
+/* ============================= */
+
+
+/*         IMAGE STYLE           */
+
+
+/* ============================= */
+
+img {
+    border-radius: 10px;
+}
+
+
+/* ============================= */
+
+
+/*         SEPARATOR             */
+
+
+/* ============================= */
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #eee;
+}
+
+.property-card {
+    background: #f8fafc;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #e5e7eb;
+    margin-bottom: 15px;
+}
+
+button[kind="primary"] {
+    background-color: #1d4ed8 !important;
+    color: white !important;
+    border-radius: 8px !important;
+}
