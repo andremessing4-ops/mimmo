@@ -8,7 +8,7 @@ import os
 # ==========================
 st.set_page_config(page_title="M-IMMO LA REFERENCE", page_icon="🏠", layout="wide")
 
-API_URL = "http://127.0.0.1:8000/api/"
+API_URL = "https://mimmo.onrender.com/api/"
 ADMIN_EMAIL = "andremessing4@gmail.com"
 ADMIN_PASSWORD = "admin@2026"
 PAYMENT_NUMBER = "656770340"
